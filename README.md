@@ -24,11 +24,12 @@ More projects coming soon!
 ## Screenshots
 
 ### Merch from Base (Edition Drop NFT)
-![Merch NFT Collection](images/Merch from Base NFT.jfif)
+![Merch NFT Collection](images/Merch from Base NFT.JPG)
 ![Merch NFT Dashboard](images/Снимок_18.12_11.JPG)
 ![Merch NFT Transfer](images/Снимок_18.12_12.JPG)
 
 ### Merch Coin (ERC20)
-![Merch Coin Overview](images/Merch Coin.jfif)
+![Merch Coin Overview](images/Merch Coin.JPG)
 ![Merch Coin Tokens Tab](images/Снимок_18.12_9.JPG)
-![Merch Coin Transfer](images/Снимок_18.12_10.JPG)
+![Merch Coin Transfer](images/Снимок_18_12_10.JPG)
+
