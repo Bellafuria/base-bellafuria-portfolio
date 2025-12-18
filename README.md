@@ -1,4 +1,4 @@
-# Base Bellafria Portfolio 
+# Base Bellafuria Portfolio 
 
 Building on Base mainnet during December 2025 Builders rewards.
 
