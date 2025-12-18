@@ -20,3 +20,5 @@ Building on Base mainnet during December 2025 Builders rewards.
 - #BaseBuilders #Onchain @base @thirdweb
 
 More projects coming soon!
+![Merch NFT Drop](images/nft-screen1.png)
+![Merch Coin Dashboard](images/coin-screen2.png)
