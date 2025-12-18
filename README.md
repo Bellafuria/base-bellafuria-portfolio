@@ -31,5 +31,5 @@ More projects coming soon!
 ### Merch Coin (ERC20)
 ![Merch Coin Overview](images/Merch%20Coin.jpg)
 ![Merch Coin Tokens Tab](images/Снимок_18.12_9.JPG)
-![Merch Coin Transfer](images/Снимок_18.12_10.JPG)
+![Merch Coin Transfer](images/Снимок_18_12_10.JPG)
 
