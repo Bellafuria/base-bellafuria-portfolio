@@ -20,5 +20,15 @@ Building on Base mainnet during December 2025 Builders rewards.
 - #BaseBuilders #Onchain @base @thirdweb
 
 More projects coming soon!
-![Merch NFT Drop](images/nft-screen1.png)
-![Merch Coin Dashboard](images/coin-screen2.png)
+
+## Screenshots
+
+### Merch from Base (Edition Drop NFT)
+![Merch NFT Collection](images/Merch from Base NFT.jfif)
+![Merch NFT Dashboard](images/Снимок_18.12_11.JPG)
+![Merch NFT Transfer](images/Снимок_18.12_12.JPG)
+
+### Merch Coin (ERC20)
+![Merch Coin Overview](images/Merch Coin.jfif)
+![Merch Coin Tokens Tab](images/Снимок_18.12_9.JPG)
+![Merch Coin Transfer](images/Снимок_18.12_10.JPG)
