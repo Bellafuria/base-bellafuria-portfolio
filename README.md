@@ -15,6 +15,18 @@ Building on Base mainnet during December 2025 Builders rewards.
 - Total Supply: 1 000 000 000
 - Deployed with thirdweb Coin template.
 
+### 3. Merch from Base Market (Marketplace)
+- Contract: https://thirdweb.com/base/0xC0Ca14A22D849BF1EF47A1cd5AA6Fb02e15D49b5
+- Type: thirdweb Marketplace V3
+- Description: Marketplace for listing and buying Merch from Base NFT and Merch Coin. Direct listings with 0 ETH price for testing.
+- Features: Supports ERC721, ERC1155 and ERC20 tokens
+
+### 4. Merch Coin Votes (Governance)
+- Contract: https://thirdweb.com/base/0xc745F1bC31CEd3bb6E448C40D24E4bAbCf50e227
+- Type: thirdweb Vote (Governor)
+- Governance Token: Merch Coin
+- Description: Onchain voting system for Base builders community. Holders of Merch Coin can participate in governance.
+
 ## Tech
 - All contracts deployed via thirdweb on Base mainnet
 - #BaseBuilders #Onchain @base @thirdweb
