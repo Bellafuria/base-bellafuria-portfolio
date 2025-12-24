@@ -31,6 +31,7 @@ Building on Base mainnet during December 2025 Builders rewards.
 * Contract: [0x0EE811aE2D61a20c7739F7036a814582f45F8f1D](https://basescan.org/address/0x0EE811aE2D61a20c7739F7036a814582f45F8f1D)
 * Repo: [base-todo-dapp](https://github.com/Bellafuria/base-todo-dapp)
 * Description: Simple Todo List with onchain storage. Added 25+ real tasks (NY prep + building goals).
+* Built from scratch with Remix (no thirdweb).
 
   
 
