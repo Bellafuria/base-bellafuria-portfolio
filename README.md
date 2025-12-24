@@ -64,4 +64,4 @@ More projects coming soon!
 ![Vote Basescan](images/Снимок_20.12_4.JPG)
 
 ### My Todo List DApp
-![Basescan screenshot of Todo List contract](images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_24.12.2.JPG)
+![Basescan screenshot of Todo List contract showing multiple Add Task transactions](https://raw.githubusercontent.com/Bellafuria/base-bellafuria-portfolio/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_24.12.2.JPG "Deployed TodoList contract on Base mainnet with 26+ Add Task transactions from bellafuria.base.eth")
