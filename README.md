@@ -29,6 +29,9 @@ Building on Base mainnet during December 2025 Builders rewards.
 
 ## 5. My Todo List DApp
 * Contract: [0x0EE811aE2D61a20c7739F7036a814582f45F8f1D](https://basescan.org/address/0x0EE811aE2D61a20c7739F7036a814582f45F8f1D)
+* Repo: [base-todo-dapp](https://github.com/Bellafuria/base-todo-dapp)
+
+  
 
 ## Tech
 - All contracts deployed via thirdweb on Base mainnet
