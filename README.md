@@ -28,7 +28,7 @@ Building on Base mainnet during December 2025 Builders rewards.
 - Description: Onchain voting system for Base builders community. Holders of Merch Coin can participate in governance.
 
 ## 5. My Todo List DApp
-- Contract:
+* Contract: [0x0EE811aE2D61a20c7739F7036a814582f45F8f1D](https://basescan.org/address/0x0EE811aE2D61a20c7739F7036a814582f45F8f1D)
 
 ## Tech
 - All contracts deployed via thirdweb on Base mainnet
