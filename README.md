@@ -34,6 +34,7 @@ Building on Base mainnet during December 2025 Builders rewards.
 * Built from scratch with Remix (no thirdweb).
 * Dec 23-24, 2025: Deployed + heavy onchain interactions.
   
+  More projects: Frontend coming soon!
 
 ## Tech
 - All contracts deployed via thirdweb on Base mainnet
