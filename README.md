@@ -32,7 +32,7 @@ Building on Base mainnet during December 2025 Builders rewards.
 * Repo: [base-todo-dapp](https://github.com/Bellafuria/base-todo-dapp)
 * Description: Simple Todo List with onchain storage. Added 25+ real tasks (NY prep + building goals).
 * Built from scratch with Remix (no thirdweb).
-
+* Dec 23-24, 2025: Deployed + heavy onchain interactions.
   
 
 ## Tech
