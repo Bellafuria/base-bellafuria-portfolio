@@ -30,7 +30,7 @@ Building on Base mainnet during December 2025 Builders rewards.
 ### 5. My Todo List DApp (Full DApp completed!)
 
 * Contract: https://basescan.org/address/0x0EE811aE2D61a20c7739F7036a814582f45F8f1D
-* Txns: 41+ real onchain interactions (addTask)
+* Txns: 40+ real onchain interactions (addTask)
 * Description: Simple decentralized Todo List with onchain storage. All tasks stored forever on Base mainnet.
 * Built from scratch with Remix IDE (no thirdweb).
 * Features: Add tasks, view list, toggle completed.
