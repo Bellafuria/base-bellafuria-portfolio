@@ -27,14 +27,20 @@ Building on Base mainnet during December 2025 Builders rewards.
 - Governance Token: Merch Coin
 - Description: Onchain voting system for Base builders community. Holders of Merch Coin can participate in governance.
 
-## 5. My Todo List DApp
-* Contract: [0x0EE811aE2D61a20c7739F7036a814582f45F8f1D](https://basescan.org/address/0x0EE811aE2D61a20c7739F7036a814582f45F8f1D)
-* Repo: [base-todo-dapp](https://github.com/Bellafuria/base-todo-dapp)
-* Description: Simple Todo List with onchain storage. Added 25+ real tasks (NY prep + building goals).
-* Built from scratch with Remix (no thirdweb).
-* Dec 23-24, 2025: Deployed + heavy onchain interactions.
+### 5. My Todo List DApp (Full DApp completed!)
+
+* Contract: https://basescan.org/address/0x0EE811aE2D61a20c7739F7036a814582f45F8f1D
+* Txns: 41+ real onchain interactions (addTask)
+* Description: Simple decentralized Todo List with onchain storage. All tasks stored forever on Base mainnet.
+* Built from scratch with Remix IDE (no thirdweb).
+* Features: Add tasks, view list, toggle completed.
+* Dates: Dec 23–28, 2025 — contract deploy + heavy txns + full frontend.
+* Frontend: React + ethers.js (MetaMask connect, live add/view tasks)
+* Repo: https://github.com/Bellafuria/base-todo-dapp (contract & ideas) + https://github.com/Bellafuria/base-todo-dapp-frontend (full frontend code)
+
+Local demo works perfectly! #BuildOnBase
   
-  More projects: Frontend coming soon!
+More projects: Frontend coming soon!
 
 ## Tech
 - All contracts deployed via thirdweb on Base mainnet
